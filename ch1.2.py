@@ -1,4 +1,4 @@
-def isLeap Year(year):
+7def isLeap Year(year):
 
 if (year & 4 = @ and year 180 != 0) or year $ 400 = 0:
 
